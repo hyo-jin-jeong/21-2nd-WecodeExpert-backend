@@ -1,7 +1,7 @@
-# 21-2nd-WecodeExpert-backend
+# WeExpert-backend
 김민규, 박창현, 정효진
 
-## WecodeExpert 프로젝트 Back-end 소개
+## WeExpert 프로젝트 Back-end 소개
 
 - 네이버 Expert [네이버 Expert](https://m.expert.naver.com/)를 모티브로 한 프로젝트 
 - 짧은 프로젝트 기간동안 개발에 집중해야 하므로 디자인/기획 부분만 클론했습니다.
