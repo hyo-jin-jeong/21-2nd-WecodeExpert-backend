@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=NDgbTXL3dcQ
 
 ### 구현 기능
 
-#### Users app - 효진
+#### Users app - 효진(담당)🙋‍♀️
 - `Kakao api`를 이용한 소셜 로그인 구현 
 - `JWT`를 이용한 User 정보 토큰발행
 -  토큰 확인 데코레이터 구현
